@@ -1,0 +1,10 @@
+[
+  {
+    "src": "images/gallery/photo1.jpg",
+    "caption": "A short caption for this photo"
+  },
+  {
+    "src": "images/gallery/photo2.jpg",
+    "caption": "Another caption"
+  }
+]
