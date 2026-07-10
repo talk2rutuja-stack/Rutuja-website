@@ -1,5 +1,7 @@
 ---
-Jams and pickles
+title: Jams and pickles
+date: 2026-07-11
+image:
 ---
 
 Food is the best expression of my mental state. **See my food to know my mood**. It may sound corny and/or frivolous. Definitely not the most cerebral. It’s personal, emotional and reflective of the chaos (or lack thereof) in the mind. After years of being ashamed of being an emotional eater, I think I am hesitantly ready to own and hone this relationship with food. It feels like claiming an illicit affair - the one that happens at clandestine hours.
